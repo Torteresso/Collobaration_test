@@ -1,0 +1,1 @@
+print("Hello word ! This a test !")
