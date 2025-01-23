@@ -1,5 +1,6 @@
-print("Hello word ! This a test !")
+def findMin(arr):
+    return min(arr)
 
-print("hello")
+myArr = [2, 4, 9, 10, -77, 2]
 
-print("2nd branche test")
+print(findMin(myArr))
